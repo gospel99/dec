@@ -1,3 +1,3 @@
 # dec
-Decompy
+Decompy | 
 pip2 install uncompyle6
